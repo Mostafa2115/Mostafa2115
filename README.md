@@ -14,15 +14,13 @@
   <!--<p align="center">
       <img src="https://komarev.com/ghpvc/?username=mostafa2115&color=4010B0" height="30"/>
   </p>-->
-<h3 align="left"> Contact me:</h3>
-  <p align="left"> 
-    <a href="https://linktr.ee/Mostafa__Mahmoud">
-      <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=mylinks&logoColor=white" height="40"/>
-  </p>
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  <a href="www.linkedin.com/in/mostafa-mahmoud-5i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa2115" height="30" width="40" /></a>  <a href="https://codeforces.com/profile/Mostafa3X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mostafa" height="30" width="40" /></a>  
+</p>  
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,PHP,git&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,php,git&perline=11"/>
   </p>
 
 
