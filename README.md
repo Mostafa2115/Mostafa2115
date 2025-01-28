@@ -5,12 +5,13 @@
 - 📫 How to reach me (https://linktr.ee/Mostafa__Mahmoud)
 - 😄 Pronouns: darsh
 - ⚡ Fun fact: --->
-<h1 align="center">Hello!, I'm Mostafa Mahmoud</h1>
+<h1 align="center">Hello!👋, I'm Mostafa Mahmoud</h1>
 
 <h2 align="center">Software Engineer | Backend Developer</h2>
 
   
-
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning Problem solving and PHP 
   <!--<p align="center">
       <img src="https://komarev.com/ghpvc/?username=mostafa2115&color=4010B0" height="30"/>
   </p>-->
