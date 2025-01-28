@@ -24,7 +24,15 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,html,css,php,git&perline=11"/>
   </p>
 
-
+<table>
+  <tr>
+    <td>
+      <a href="https://codeforces.com/profile/Mostafa3X">
+        <img width="410" src="https://codeforces-readme-stats.vercel.app/api/card?username=Mostafa3X&theme=react" alt="Codeforces Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
   
   <p align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=5&theme=codeSTACKr"/>
