@@ -11,13 +11,13 @@
 
   
 
-  <p align="center">
+  <!--<p align="center">
       <img src="https://komarev.com/ghpvc/?username=mostafa2115&color=4010B0" height="30"/>
-  </p>
-
+  </p>-->
+<h3 align="left"> Contact me:</h3>
   <p align="left"> 
-    <a href="www.linkedin.com/in/mostafa-mahmoud-5i">
-      <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    <a href="https://linktr.ee/Mostafa__Mahmoud">
+      <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=mylinks&logoColor=white" height="40"/>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
