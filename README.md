@@ -7,7 +7,7 @@
 - ⚡ Fun fact: --->
 <h1 align="center">Hi!👋, I'm Mostafa Mahmoud</h1>
 
-<h2 align="center">Software Engineer | Backend Developer</h2>
+<h2 align="center">Software Engineer | Problem Solver</h2>
 
   
 - 👀 I’m interested in Web development 
