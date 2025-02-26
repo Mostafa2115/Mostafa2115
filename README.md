@@ -25,7 +25,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,php,git&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,php,mysql,git&perline=11"/>
   </p>
 
 <!--<table>
