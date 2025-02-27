@@ -42,7 +42,9 @@
   
   <p align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=5&theme=codeSTACKr"/>
-    <a/> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&locale=en" alt="mostafa2115" /></p> <table>
+    <a/><p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=dark"></a>
+  <table>
   <tr>
     <td>
       <a href="https://codeforces.com/profile/Mostafa3X">
