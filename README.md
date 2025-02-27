@@ -12,7 +12,7 @@
   
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Problem solving and PHP
-- 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115/Mostafa2115](https://github.com/Mostafa2115/Mostafa2115)
+- 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
 - 📫 How to reach me **mm751852005@gmail.com**
 
 - 📄 Know about my experiences <a href="https://us.docworkspace.com/d/sIHjm0-VLoqr7uwY?sa=601.1093" target="_blank"> CV </a> 
