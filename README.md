@@ -5,10 +5,26 @@
 - 📫 How to reach me (https://linktr.ee/Mostafa__Mahmoud)
 - 😄 Pronouns: darsh
 - ⚡ Fun fact: --->
-<h1 align="center">Hi!👋, I'm Mostafa Mahmoud</h1>
-
-<h2 align="center">Software Engineer | Problem Solver</h2>
-
+<!-- <h1 align="center">Hi!👋, I'm Mostafa Mahmoud</h1>
+ -->
+```cpp
+    #include <iostream>
+    using namespace std;
+    class SayHello
+    {
+        public:
+           SayHello(string name)
+           {
+               cout << "Hello Everyone , My name is " << name <<"\n";
+           }
+    };
+    int main()
+    {
+         SayHello Hi(Mostafa);
+         return 0;
+    }
+  ```
+<!-- <h2 align="center">Software Engineer | Problem Solver | Backend Trainee</h2> -->
   
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Problem solving and PHP
