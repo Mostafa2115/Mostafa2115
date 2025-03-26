@@ -27,7 +27,7 @@
 <!-- <h2 align="center">Software Engineer | Problem Solver | Backend Trainee</h2> -->
   
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Problem solving and PHP
+- 🌱 I’m currently learning Problem solving and Backend track
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
 - 📫 How to reach me **mm751852005@gmail.com**
 
