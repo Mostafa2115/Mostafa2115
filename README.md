@@ -10,17 +10,18 @@
 ```cpp
     #include <iostream>
     using namespace std;
-    class SayHello
+    class Intro
     {
         public:
-           SayHello(string name)
+           Intro(string name)
            {
                cout << "Hello Everyone , My name is " << name <<"\n";
+               cout << "I'm problem solver and Backend trainee...";
            }
     };
     int main()
     {
-         SayHello Hi(Mostafa);
+         Intro Hi(Mostafa_Mahmoud);
          return 0;
     }
   ```
