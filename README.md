@@ -21,7 +21,7 @@
     };
     int main()
     {
-         Intro Hi(Mostafa_Mahmoud);
+         Intro Hi("Mostafa_Mahmoud");
          return 0;
     }
   ```
