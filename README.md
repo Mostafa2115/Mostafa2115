@@ -6,13 +6,13 @@
         public:
            Intro(string name)
            {
-               cout << "Hello Everyone , My name is " << name <<"\n";
+               cout << "Welcome "<< name <<" , My name is Mostafa Mahmoud\n";
                cout << "I'm problem solver and Backend trainee...";
            }
     };
     int main()
     {
-         Intro Hi("Mostafa");
+         Intro Hi("MyFriend");
          return 0;
     }
   ```
