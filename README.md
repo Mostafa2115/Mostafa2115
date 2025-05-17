@@ -23,7 +23,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
 - 📫 How to reach me **mm751852005@gmail.com**
 
-- 📄 Know about my experiences <a href="https://us.docworkspace.com/d/sIHjm0-VLoqr7uwY?sa=601.1093" target="_blank"> CV </a> 
+- 📄 Know about me <a href="https://flowcv.com/resume/rh8fe90babm9" target="_blank"> CV </a> 
 
   
 <h3 align="left">Connect with me:</h3>  
