@@ -4,15 +4,15 @@
     class Intro
     {
         public:
-           Intro(string name)
+           Intro()
            {
-               cout << "Welcome "<< name <<" , My name is Mostafa Mahmoud\n";
+               cout << "Welcome My friend , My name is Mostafa Mahmoud\n";
                cout << "I'm problem solver and Backend trainee...";
            }
     };
     int main()
     {
-         Intro Hi("MyFriend");
+         Intro Hi();
          return 0;
     }
   ```
