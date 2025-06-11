@@ -7,12 +7,12 @@
            Intro()
            {
                cout << "Welcome My friend , My name is Mostafa Mahmoud\n";
-               cout << "I'm problem solver and Backend trainee...";
+               cout << "I'm Computer Science Student and Back-End trainee...";
            }
     };
     int main()
     {
-         Intro Hi();
+         Intro Me();
          return 0;
     }
   ```
