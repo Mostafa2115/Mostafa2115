@@ -1,23 +1,9 @@
-```cpp
-    #include <iostream>
-    using namespace std;
-    class Intro
-    {
-        public:
-           Intro()
-           {
-               cout << "Welcome My friend , My name is Mostafa Mahmoud\n";
-               cout << "I'm Computer Science Student and Back-End trainee...";
-           }
-    };
-    int main()
-    {
-         Intro Me();
-         return 0;
-    }
-  ```
 
-  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5B2C6F&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Backend+Developer;PHP+Native+and+Laravel+Learner" alt="Typing SVG"/>
+</p>
+
+ ### About me : 
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Problem solving and Backend track
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
@@ -32,7 +18,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,php,mysql,laravel,github,git&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,php,mysql,laravel,vscode,github,git&perline=11"/>
   </p>
 
 <!--<table>
