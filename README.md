@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <b>Mostafa Mahmoud</b></h1>
+<h1 align="center"> Hi👋, I'm <b>Mostafa Mahmoud</b></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5B2C6F&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Backend+Developer;PHP+Native+and+Laravel" alt="Typing SVG"/>
 </p>
@@ -18,7 +18,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,php,mysql,laravel,tailwind,vscode,github,git&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,php,mysql,laravel,tailwind,vscode,github,git&perline=11"/>
   </p>
 
 
