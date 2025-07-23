@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5B2C6F&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Backend+Developer;PHP+Native+and+Laravel" alt="Typing SVG"/>
 </p>
 
- ### About me : 
+ ## 👤 About me : 
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Problem solving and Backend track
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
@@ -13,11 +13,12 @@
 - 📄 Know about me <a href="https://flowcv.com/resume/rh8fe90babm9" target="_blank"> CV </a> 
 
   
-<h3 align="left">Connect with me:</h3>  
+
+## 🤝🏻 Connect with me: 
 <p align="left">  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Noor Tantawy" height="50" width="50" /></a>&nbsp;&nbsp; <a href="https://codeforces.com/profile/Mostafa3X" target="blank"> <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/Codeforces.png" alt="Mostafa3X" height="50" width="50" />
 </p>  
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+## 🛠️ Languages & Tools:
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,php,mysql,laravel,tailwind,vscode,github,git&perline=11"/>
   </p>
@@ -28,7 +29,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>   
     <a/> 
- <h3>📊 GitHub Stats</h3>
+<!--📊-->
      <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=dark"></a>
       <!-- Snake -->
