@@ -20,7 +20,7 @@
 
 ## 🛠️ Languages & Tools:
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,mysql,laravel,tailwind,vscode,github,git&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,mysql,laravel,tailwind,git&perline=11"/>
   </p>
 
 
