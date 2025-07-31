@@ -5,6 +5,8 @@
 </p>
 
  ## 👤 About me : 
+ <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Problem solving and Backend track
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
