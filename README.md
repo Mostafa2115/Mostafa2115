@@ -5,7 +5,7 @@
 </p>
 
  ## 👤 About me : 
- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+ 
 
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Problem solving and Backend track
