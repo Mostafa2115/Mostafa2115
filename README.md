@@ -21,7 +21,7 @@
 </p>  
 
 ## 🛠️ Languages & Tools:
-  <p align="center">
+  <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,mysql,laravel,tailwind,git&perline=11"/>
   </p>
 
