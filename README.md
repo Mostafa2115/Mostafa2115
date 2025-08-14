@@ -22,17 +22,17 @@
 
 ## 🛠️ Languages & Tools:
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,mysql,laravel,tailwind,git&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,mysql,mongodb,laravel,dotnet,tailwind,bootstrap,git&perline=11"/>
   </p>
 
 
   
-  <p align="center">
+  <p align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>   
     <a/> 
 <!--📊-->
-     <p align="center">
+     <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=dark"></a>
       <!-- Snake -->
 <!--       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> -->
