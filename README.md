@@ -22,7 +22,7 @@
 
 ## 🛠️ Languages & Tools:
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,mysql,mongodb,laravel,dotnet,tailwind,bootstrap,git&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,mysql,mongodb,laravel,dotnet,tailwind,git,vscode&perline=11"/>
   </p>
 
 
