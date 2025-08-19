@@ -1,14 +1,14 @@
 <div align="center" ><img width="100%" alt="welcome to my profile" src="https://github.com/mostafa2115/mostafa2115/blob/main/IMG_20250731_215743.png"></div>
 <h1 align="center"> Hi👋, I'm <b>Mostafa Mahmoud</b></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5B2C6F&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Backend+Developer;PHP+Native+and+Laravel" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&width=500&height=80&lines=<+Full+Stack+Developer+>;PHP+Native+and+Laravel" alt="Typing SVG"/>
 </p>
 
  ## 👤 About me : 
  
 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Problem solving and Backend track
+- 🌱 I’m currently learning Problem solving and Full Stack .NET track
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
 - 📫 How to reach me **mostafaamahmoud075@gmail.com**
 
