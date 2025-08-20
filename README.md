@@ -1,7 +1,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile" src="https://github.com/mostafa2115/mostafa2115/blob/main/IMG_20250731_215743.png"></div>
 <h1 align="center"> Hi👋, I'm <b>Mostafa Mahmoud</b></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&width=300&height=80&lines=<+Full+Stack+Developer+>" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&width=400&height=80&lines=<+Full+Stack+Developer+>" alt="Typing SVG"/>
 </p>
 
  ## 👤 About me : 
@@ -20,7 +20,7 @@
 <p align="left">  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Noor Tantawy" height="50" width="50" /></a>&nbsp;&nbsp; <a href="https://codeforces.com/profile/Mostafa3X" target="blank"> <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/Codeforces.png" alt="Mostafa3X" height="50" width="50" />
 </p>  
 
-## 🛠️ Languages:
+## Languages:
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs&perline=11"/>
   </p>
@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=laravel,dotnet,express&perline=11"/>
   </p>
 
-## Database:
+## Databases:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=11"/>
   </p>
