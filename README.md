@@ -1,7 +1,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile" src="https://github.com/mostafa2115/mostafa2115/blob/main/IMG_20250731_215743.png"></div>
 <h1 align="center"> Hi👋, I'm <b>Mostafa Mahmoud</b></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&width=500&height=80&lines=<+Full+Stack+Developer+>;PHP+Native+and+Laravel" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=<+Full+Stack+Developer+>" alt="Typing SVG"/>
 </p>
 
  ## 👤 About me : 
@@ -22,7 +22,7 @@
 
 ## 🛠️ Languages & Tools:
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,mysql,mongodb,laravel,dotnet,tailwind,git,vscode&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,mysql,mongodb,laravel,dotnet,nodejs,express,tailwind,git,vscode&perline=11"/>
   </p>
 
 
