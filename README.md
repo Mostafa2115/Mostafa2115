@@ -20,11 +20,25 @@
 <p align="left">  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Noor Tantawy" height="50" width="50" /></a>&nbsp;&nbsp; <a href="https://codeforces.com/profile/Mostafa3X" target="blank"> <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/Codeforces.png" alt="Mostafa3X" height="50" width="50" />
 </p>  
 
-## 🛠️ Languages & Tools:
+## 🛠️ Languages:
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,mysql,mongodb,laravel,dotnet,nodejs,express,tailwind,git,vscode&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs&perline=11"/>
   </p>
 
+## Frameworks:
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=laravel,dotnet,express&perline=11"/>
+  </p>
+
+## Database:
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=11"/>
+  </p>
+
+## Tools:
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,git,github&perline=11"/>
+  </p>
 
   
   <p align="left">
