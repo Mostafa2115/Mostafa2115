@@ -8,7 +8,7 @@
  
 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Problem solving and Full Stack .NET track
+- 🌱 I’m currently learning Full Stack .NET track
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
 - 📫 How to reach me **mostafaamahmoud075@gmail.com**
 
