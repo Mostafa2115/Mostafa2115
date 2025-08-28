@@ -1,14 +1,14 @@
-<div align="center" ><img width="100%" alt="welcome to my profile" src="https://github.com/mostafa2115/mostafa2115/blob/main/IMG_20250731_215743.png"></div>
-<h1 align="center"> Hi👋, I'm <b>Mostafa Mahmoud</b></h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&width=400&height=80&lines=<+Full+Stack+Developer+>" alt="Typing SVG"/>
+<div align="center"><img width="100%" alt="welcome to my profile" src="https://github.com/mostafa2115/mostafa2115/blob/main/IMG_20250731_215743.png"></div>
+<hr/>
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Mostafa+Mahmoud;Full-Stack+Developer;PHP+Laravel+%26+React.js+Learner" alt="Typing SVG" />
 </p>
 
  ## 👤 About me : 
  
 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Full Stack .NET track
+- 🌱 I’m currently learning Full Stack .NET track and React.js
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
 - 📫 How to reach me **mostafaamahmoud075@gmail.com**
 
@@ -27,12 +27,8 @@
 
   
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=5&theme=codeSTACKr"/>
-  </p>   
-    <a/> 
-<!--📊-->
-     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=dark"></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=5&theme=codeSTACKr" height=150/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=dark" height=150/>
       <!-- Snake -->
 <!--       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> -->
   </p>
