@@ -33,7 +33,7 @@
 <!--       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> -->
   </p>
   <p align="center">
-  <img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=mostafa2115&theme=shadow_blue&hide_border=false">
+  <img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=Mostafa2115&theme=shadow_blue&hide_border=false">
   </p>
 
 <!---
