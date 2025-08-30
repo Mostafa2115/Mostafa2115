@@ -1,7 +1,7 @@
 <div align="center"><img width="100%" alt="welcome to my profile" src="https://github.com/mostafa2115/mostafa2115/blob/main/header.png"></div>
 <hr/>
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Mostafa+Mahmoud;Full-Stack+Developer;PHP+Laravel+%26+React.js+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Mostafa+Mahmoud;Full-Stack+Developer;PHP+Laravel+and+React.js+learner" alt="Typing SVG" />
 </p>
 
  ## 👤 About me : 
@@ -29,6 +29,9 @@
   <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=5&theme=codeSTACKr" height=150/>
     <img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=dark" height=150/>
+  </p>
+  <p align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Mostafa2115&theme=dark&hide_border=false" height=150/>
       <!-- Snake -->
 <!--       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> -->
   </p>
