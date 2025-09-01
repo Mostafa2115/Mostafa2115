@@ -1,5 +1,3 @@
-<div align="center"><img width="100%" alt="welcome to my profile" src="https://github.com/mostafa2115/mostafa2115/blob/main/header.png"></div>
-<hr/>
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Mostafa+Mahmoud;Full-Stack+Developer;PHP+Laravel+and+.NET+learner" alt="Typing SVG" />
 </p>
