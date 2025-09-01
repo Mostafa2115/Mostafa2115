@@ -28,8 +28,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=5&theme=codeSTACKr" height=150/>
     <img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=dark" height=150/>
   </p>
-  <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Mostafa2115&theme=dark&hide_border=false" height=150/>
       <!-- Snake -->
 <!--       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> -->
   </p>
