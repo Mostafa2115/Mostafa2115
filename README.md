@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Mostafa+Mahmoud;Full-Stack+Developer;PHP+Laravel+and+.NET+learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer" alt="Typing SVG" />
 </p>
 
  ## 👤 About me : 
