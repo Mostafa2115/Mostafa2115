@@ -25,7 +25,7 @@
 
   
   <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=5&theme=codeSTACKr" height=150/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=6&theme=codeSTACKr" height=150/>
     <img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=dark" height=150/>
   </p>
 
