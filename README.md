@@ -23,6 +23,8 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet,express,mysql,mongodb,supabase,nodejs,tailwind,git,github,vscode&perline=11"/>
   </p>
 
+  ---
+
   
   <p align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&layout=compact&langs_count=6&theme=codeSTACKr" height=150/>
