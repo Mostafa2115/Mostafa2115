@@ -6,7 +6,7 @@
  
 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Full Stack .NET track
+- 🌱 I’m currently learning Full Stack .NET track with React.js
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa2115](https://github.com/Mostafa2115)
 - 📫 How to reach me **mostafaamahmoud075@gmail.com**
 
@@ -20,7 +20,7 @@
 
 ## 🛠️ Languages & Tools:
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet,express,mysql,mongodb,supabase,nodejs,tailwind,git,github,vscode&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet,express,mysql,mongodb,supabase,nodejs,tailwind,git,github,postman,vscode&perline=11"/>
   </p>
 
   ---
