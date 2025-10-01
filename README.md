@@ -20,7 +20,7 @@
 
 ## 🛠️ Languages & Tools:
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet,express,mysql,mongodb,supabase,nodejs,tailwind,git,github,postman,vscode&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet,express,mysql,mongodb,supabase,nodejs,tailwind,bootstrap,git,github,postman,vscode&perline=11"/>
   </p>
 
   ---
