@@ -20,9 +20,8 @@
 
 ## 🛠️ Languages & Tools:
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet,express,mysql,mongodb,supabase,nodejs,tailwind,bootstrap,git,github,postman,vscode,visualstudio&perline=11"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="SQL Server logo" style="animation: pulse 2s infinite;" />
-  <img width="7" />
+    <!-- <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet,express,mysql,mongodb,supabase,nodejs,tailwind,bootstrap,git,github,postman,vscode,visualstudio&perline=11"/> -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet,express,mysql,sqlserver,mongodb,supabase,nodejs,tailwind,bootstrap,git,github,postman,vscode,visualstudio"/>
   </p>
 
   ---
