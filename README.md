@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hi👋🏻,+I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer" alt="Typing SVG" />
 </p>
 
- # 👤 About me : 
+ ## 👤 About me : 
  
 
 - 👀 I’m interested in Web development 
@@ -14,18 +14,17 @@
 
   
 
-# 🤝🏻 Connect with me: 
+## 🤝🏻 Connect with me: 
 <p align="left">  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Mostafa Mahmoud" height="50" width="50" /></a>&nbsp;&nbsp; <a href="https://codeforces.com/profile/Mostafa3X" target="blank"> <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/Codeforces.png" alt="Mostafa3X" height="50" width="50" />
 </p>  
   
----
   
-# Languages:
+##  Languages:
   <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs"/>
   </p>
   
-# Technologies & Tools:
+## Technologies & Tools:
   <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,express,mysql,sqlserver,mongodb,supabase,nodejs,tailwind,bootstrap,git,github,postman,vscode,visualstudio"/>
   </p>
