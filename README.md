@@ -10,7 +10,15 @@
 
 🎯 Currently, I’m learning and building projects in the **Full Stack .NET** track using **React.js** for modern front-end development.  
 
-🧠 Always exploring new technologies and improving my coding skills to stay ahead in the tech world.  
+🧠 Always exploring new technologies and improving my coding skills to stay ahead in the tech world.
+
+## 💼 Roles & Activities  
+
+- **3rd year Computer Science Student**, *Zagazig University*   
+
+- **Technical team member**, [*ICPC ZU Community*](https://icpczagazig.com)  
+
+- **Backend Member**, [*IEEE ZSB CS Chapter*](https://ieee-zsb.org/)  
 
 ---
 
