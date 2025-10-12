@@ -16,7 +16,7 @@
 
 - **3rd year Computer Science Student**, *Zagazig University*   
 
-- **Technical team member**, [*ICPC ZU Community*](https://icpczagazig.com)  
+- **Technical team member**, [*ICPC ZU Community*](https://icpczagazig.org/)  
 
 - **Backend Member**, [*IEEE ZSB CS Chapter*](https://ieee-zsb.org/)  
 
