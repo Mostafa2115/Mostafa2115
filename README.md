@@ -18,7 +18,9 @@
 
 - **Mentor**, [*ICPC ZU Community*](https://icpczagazig.org/)  
 
-- **Backend Member**, [*IEEE ZSB CS Chapter*](https://ieee-zsb.org/)  
+- **Backend Member**, [*IEEE ZSB CS Chapter*](https://ieee-zsb.org/)
+  
+- **Backend Core Team Member**, [*GDG on Campus Zagazig*](https://www.facebook.com/Google.DSC.Zagazig?locale=ar_AR) 
 
 ---
 
