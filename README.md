@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hi👋🏻,+I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hi👋🏻,+I'm+Mostafa+Mahmoud;&lt;Full-Stack+.NET+Developer&gt" alt="Typing SVG" />
 </p>
 
  ## 🚀 About Me  
@@ -15,9 +15,7 @@
 ---
 
 ### 🌐 My Work  
-💻 You can check out all my projects here:  
-👉 [**GitHub Profile**](https://github.com/Mostafa2115)  
-
+ 
 📄 Learn more about my journey and skills:  
 👉 [**View My CV**](https://flowcv.com/resume/rh8fe90babm9)  
 
