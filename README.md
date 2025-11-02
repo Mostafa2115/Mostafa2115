@@ -1,6 +1,3 @@
-<p align="center" >
-<img src="https://github.com/Mostafa2115/Mostafa2115/blob/main/MyBanner.jpeg" height="50%" width="90%"  />
-</p>
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hi👋🏻,+I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer" alt="Typing SVG" />
 </p>
