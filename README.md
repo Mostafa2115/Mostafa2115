@@ -4,23 +4,32 @@
 
  ## 🚀 About Me  
 
-👋 Hey there! I'm **Mostafa Mahmoud**, a passionate **Full-Stack .NET Developer** who loves turning ideas into interactive and functional web applications.  
+👋 Hey there! I'm **Mostafa Mahmoud** — a curious mind and passionate **Full-Stack .NET Developer** who loves turning coffee ☕ into clean, elegant, and functional code.  
 
-💡 I’m deeply interested in **Web Development**, especially in building scalable, clean, and user-friendly solutions.  
+💡 I’m all about crafting **beautiful, scalable, and user-focused web experiences** — combining the power of **.NET** on the backend with the creativity of **React.js** on the frontend.  
 
-🎯 Currently, I’m learning and building projects in the **Full Stack .NET** track using **React.js** for modern front-end development.  
+⚙️ I enjoy the full development journey — from sketching an idea, designing its architecture, to writing the final line of code that makes it come alive.  
 
-🧠 Always exploring new technologies and improving my coding skills to stay ahead in the tech world.
+🌱 Currently exploring advanced concepts in **Full Stack .NET Development**, diving deeper into performance optimization, clean architecture, and modern UI design.  
+
+✨ My motto: *“Build. Break. Learn. Repeat.”*  
+
+💬 *Always open to new challenges and collaborations.*  
+
 
 ---
 
 ### 🌐 My Work  
- 
-📄 Learn more about my journey and skills:  
+
+📄 Explore my journey, projects, and experience:  
 👉 [**View My CV**](https://flowcv.com/resume/rh8fe90babm9)  
 
-📫 Feel free to reach out:  
-✉️ **mostafaamahmoud075@gmail.com**
+📫 Let’s connect, collaborate, or talk tech!  
+✉️ **mostafaamahmoud075@gmail.com**  
+
+
+
+
 
 ---
   
@@ -31,16 +40,29 @@
   <a href="https://codeforces.com/profile/Mostafa3X" target="blank"> <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/Codeforces.png" alt="Mostafa3X" height="50" width="50" />
   </a>
 </p>  
+
+---
   
   
-### 🧰 Languages:
-<p align="center">
+### 🧩 Languages:
+<p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs"/>
 </p>
 
-### 🛠️ Technologies & Tools:
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,express,mysql,sqlserver,mongodb,supabase,nodejs,tailwind,bootstrap,git,github,postman,vscode,visualstudio"/>
+
+### ⚙️ Frameworks & Libraries:
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,express,nodejs,tailwind,bootstrap"/>
+</p>
+
+### 🗄️ Databases:
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,mongodb,supabase"/>
+</p>
+
+### 🧠 Tools:
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio"/>
 </p>
   
   ---
