@@ -21,24 +21,26 @@
 
 ### 🌐 My Work  
 
-📄 Explore my journey, projects, and experience:  
-👉 [**View My CV**](https://flowcv.com/resume/rh8fe90babm9)  
-
-📫 Let’s connect, collaborate, or talk tech!  
-✉️ **mostafaamahmoud075@gmail.com**  
-
-
-
-
-
----
+📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9)  
   
 
 ### 🤝🏻 Connect with me: 
 <p align="left">  
-  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Mostafa Mahmoud" height="50" width="50" /></a>&nbsp;&nbsp; 
-  <a href="https://codeforces.com/profile/Mostafa3X" target="blank"> <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/Codeforces.png" alt="Mostafa3X" height="50" width="50" />
-  </a>
+  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Mostafa Mahmoud" height="50" width="50" />
+</a>&nbsp;&nbsp;
+
+<a href="mailto:mostafaamahmoud075@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="50" />
+</a>&nbsp;&nbsp;
+
+<a href="https://codeforces.com/profile/Mostafa3X" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/Codeforces.png" alt="Mostafa3X" height="50" width="50" />
+</a>
+
+
+
+
 </p>  
 
 ---
