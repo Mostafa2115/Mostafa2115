@@ -4,25 +4,21 @@
 
  ## 🚀 About Me  
 
-👋 Hey there! I'm **Mostafa Mahmoud** — a curious mind and passionate **Full-Stack .NET Developer** who loves turning coffee ☕ into clean, elegant, and functional code.  
+👋 Hey there! I'm passionate **Full-Stack .NET Developer** who loves turning coffee ☕ into clean and functional code.
 
-💡 I’m all about crafting **beautiful, scalable, and user-focused web experiences** — combining the power of **.NET** on the backend with the creativity of **React.js** on the frontend.  
+💡 I craft scalable, user-focused web apps, blending the power of .NET with the creativity of **React.js**.
 
-⚙️ I enjoy the full development journey — from sketching an idea, designing its architecture, to writing the final line of code that makes it come alive.  
+⚙️ From idea to deployment, I enjoy building things that truly work and look great.
 
-🌱 Currently exploring advanced concepts in **Full Stack .NET Development**, diving deeper into performance optimization, clean architecture, and modern UI design.  
+🌱 Currently diving deeper into clean architecture, performance optimization, and modern UI design.
 
-✨ My motto: *“Build. Break. Learn. Repeat.”*  
+✨ Motto: “Build. Break. Learn. Repeat.”  
 
 💬 *Always open to new challenges and collaborations.*  
 
-
----
-
-### 🌐 My Work  
-
 📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9)  
   
+---
 
 ### 🤝🏻 Connect with me: 
 <p align="left">  
