@@ -39,23 +39,23 @@
   
   
 ### 🧩 Languages:
-<p align="left">
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs"/>
 </p>
 
 
 ### ⚙️ Frameworks & Libraries:
-<p align="left">
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,express,nodejs,tailwind,bootstrap"/>
 </p>
 
 ### 🗄️ Databases:
-<p align="left">
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,mongodb,supabase"/>
 </p>
 
 ### 🧠 Tools:
-<p align="left">
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio"/>
 </p>
   
