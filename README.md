@@ -12,7 +12,7 @@
 📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9). 
   
 
-## 🤝🏻 Connect with me : 
+### 🤝🏻 Connect with me : 
 <p align="left">  
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Mostafa Mahmoud" height="50" width="50" />
@@ -26,26 +26,11 @@
 
 ---
   
-### 🧩 Languages:
+### ⚙️ Languages & Tools :
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet,express,nodejs,tailwind,bootstrap,mysql,sqlserver,mongodb,supabase,git,github,postman,vscode,visualstudio"/>
 </p>
 
-
-### ⚙️ Frameworks & Libraries:
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,express,nodejs,tailwind,bootstrap"/>
-</p>
-
-### 🗄️ Databases:
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,mongodb,supabase"/>
-</p>
-
-### 🧠 Tools:
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio"/>
-</p>
   
   ---
 
