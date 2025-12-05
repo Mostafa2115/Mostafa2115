@@ -3,13 +3,12 @@
 </p>
 
  ## 🚀 About Me : 
-☕ I enjoy turning ideas into clean, scalable, and user-focused web apps using **.NET and React**.  
-⚙️ Passionate about building reliable systems from front to back, with attention to performance and clean architecture.  
-🌱 Continuously learning and improving to craft better experiences and smarter solutions.  
-✨ *Build. Break. Learn. Repeat.*  
-💬 Always open to new opportunities, challenges, and collaborations.
-
-📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9). 
+- ☕ I enjoy turning ideas into clean, scalable, and user-focused web apps using **.NET and React**.  
+- ⚙️ Passionate about building reliable systems from front to back, with attention to performance and clean architecture.  
+- 🌱 Continuously learning and improving to craft better experiences and smarter solutions.  
+- ✨ *Build. Break. Learn. Repeat.*  
+- 💬 Always open to new opportunities, challenges, and collaborations.
+- 📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9). 
   
 
 ### 🤝🏻 Connect with me : 
