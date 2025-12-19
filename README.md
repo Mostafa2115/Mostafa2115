@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hi👋🏻,+I'm+Mostafa+Mahmoud;&lt;Full-Stack+.NET+Developer&gt" alt="Typing SVG" />
 </p>
 
- ## 🚀 About Me : 
+ # 🚀 About Me : 
 - ☕ I enjoy turning ideas into clean, scalable, and user-focused web apps using **.NET and React**.  
 - ⚙️ Passionate about building reliable systems from front to back, with attention to performance and clean architecture.  
 - 🌱 Continuously learning and improving to craft better experiences and smarter solutions.  
