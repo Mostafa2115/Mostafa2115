@@ -27,8 +27,17 @@
   
 ### ⚙️ Languages & Tools :
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,tailwind,bootstrap,mysql,sqlserver,mongodb,supabase,git,github,postman,vscode,visualstudio" align="center"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs" />
+</p>
+  <p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,express,nodejs,tailwind,bootstrap" />
+  </p>
+    <p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,mongodb,supabase" />
+    </p>
+      <p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio"/>
+      </p>
 </p>
 
   
