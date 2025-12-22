@@ -30,7 +30,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet" />
 </p>
   <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,tailwind,bootstrap,mysql,sqlserver,mongodb,supabase,git,github,postman,vscode,visualstudio" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,mysql,sqlserver,supabase,git,github,postman,vscode,visualstudio" />
   </p>
 
   
