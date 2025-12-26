@@ -24,14 +24,30 @@
 </p>  
 
 ---
-  
-### ⚙️ Languages & Tools :
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,css,js,java,php,cs,laravel,dotnet" />
+
+### 🛠 Tech Stack
+
+#### 💻 Languages
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,js,java,php,cs" />
 </p>
-  <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,mysql,sqlserver,supabase,git,github,postman,vscode,visualstudio" />
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver,supabase" />
+</p>
+
+#### 🌐 Frontend
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" />
+</p>
+
+#### 🧰 Tools
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio" />
   </p>
+
+  
 
   
   ---
