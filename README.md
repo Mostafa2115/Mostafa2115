@@ -23,9 +23,8 @@
 
 </p>  
 
----
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
 #### 💻 Languages
 <p align="left">
@@ -50,7 +49,7 @@
   
 
   
-  ---
+# 📊 GitHub Status
 
   
   <p align="center">
