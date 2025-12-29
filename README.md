@@ -53,12 +53,8 @@
 
   
   <p align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafa2115&show_icons=true&locale=en&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="mostafa2115" height=150 />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=999" height=150/>
-    <img
-    src="https://streak-stats.demolab.com?user=Mostafa2115&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="150" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafa2115&show_icons=true&locale=en&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="mostafa2115" height=170 />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=999" height=170/>
   </p>
 
 
