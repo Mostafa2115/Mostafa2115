@@ -2,12 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=&lt;Hi👋🏻,+I'm+Mostafa+Mahmoud&gt;;&lt;Full-Stack+.NET+Developer&gt" alt="Typing SVG" />
 </p>
 
- # 🚀 About Me : 
-- ☕ I enjoy turning ideas into clean, scalable, and user-focused web apps using **.NET and React**.  
-- ⚙️ Passionate about building reliable systems from front to back, with attention to performance and clean architecture.  
-- 🌱 Continuously learning and improving to craft better experiences and smarter solutions.  
-- ✨ *Build. Break. Learn. Repeat.*  
-- 💬 Always open to new opportunities, challenges, and collaborations.
+# 🚀 About Me :
+- I am a passionate web developer specializing in **.NET** and **React**, focused on transforming ideas into clean, scalable, and user-centric applications. I enjoy building reliable end-to-end systems with a strong emphasis on performance and clean architecture. Continuously learning and improving, I strive to deliver smarter solutions and better digital experiences, and I am always open to new opportunities, challenges, and collaborations.
+- ✨ *Build. Break. Learn. Repeat.*
 - 📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9). 
   
 
@@ -24,24 +21,24 @@
 </p>  
 
 
-# 🛠 Tech Stack
+# 🛠 Tech Stack :
 
-#### 💻 Languages
+#### 💻 Languages :
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,js,java,php,cs" />
 </p>
 
-#### ⚙️ Backend & Databases
+#### ⚙️ Backend & Databases :
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver,supabase" />
 </p>
 
-#### 🌐 Frontend
+#### 🌐 Frontend :
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" />
 </p>
 
-#### 🧰 Tools
+#### 🧰 Tools :
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio" />
   </p>
@@ -49,7 +46,7 @@
   
 
   
-# 📊 GitHub Status
+# 📊 GitHub Status :
 
   
   <p align="center">
