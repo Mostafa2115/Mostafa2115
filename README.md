@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Mostafa2115/Mostafa2115/blob/main/MyBanner.png" alt="Banner" width="90%" />
+</p>
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=&lt;Hi👋🏻,+I'm+Mostafa+Mahmoud&gt;;&lt;Full-Stack+.NET+Developer&gt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=500&lines=&lt;Hi👋🏻,+I'm+Mostafa+Mahmoud&gt;;&lt;Full-Stack+.NET+Developer&gt" alt="Typing SVG" />
 </p>
 
 # 🚀 About Me :
@@ -18,7 +21,9 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="50" />
 </a>&nbsp;&nbsp;
 
-</p>  
+</p> 
+
+---
 
 
 # 🛠 Tech Stack :
@@ -44,7 +49,7 @@
   </p>
 
   
-
+---
   
 # 📊 GitHub Status :
 
