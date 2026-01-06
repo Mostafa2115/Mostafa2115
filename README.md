@@ -6,8 +6,14 @@
 </p>
 
 # 🚀 About Me :
-- I am a passionate web developer specializing in **.NET** and **React**, focused on transforming ideas into clean, scalable, and user-centric applications. I enjoy building reliable end-to-end systems with a strong emphasis on performance and clean architecture. Continuously learning and improving, I strive to deliver smarter solutions and better digital experiences, and I am always open to new opportunities, challenges, and collaborations.
-- ✨ *Build. Break. Learn. Repeat.*
+> I am a passionate **web developer** 👨‍💻 specializing in **.NET** ⚙️ and **React** ⚛️,  
+focused on transforming ideas 💡 into **clean**, **scalable**, and **user-centric applications** 🎯.  
+> I enjoy building **reliable end-to-end systems** 🧩 with a strong emphasis on  
+**performance** 🚀 and **clean architecture** 🏗️.  
+> Continuously learning and improving 📈, I strive to deliver **smarter solutions** 🧠  
+and **better digital experiences** ✨, and I am always open to  
+**new opportunities** 🌍, **challenges** 🔥, and **collaborations** 🤝.
+
 - 📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9). 
   
 
