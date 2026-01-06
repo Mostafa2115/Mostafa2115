@@ -27,6 +27,15 @@ and **better digital experiences** ✨, and I am always open to
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="50" />
 </a>&nbsp;&nbsp;
 
+<a href="https://codeforces.com/profile/Mostafa3X" target="blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+       alt="Codeforces Profile"
+       height="50"
+       width="50" />
+</a>
+
+
 </p> 
 
 ---
