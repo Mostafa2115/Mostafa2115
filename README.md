@@ -50,7 +50,7 @@ and **better digital experiences** ✨, and I am always open to
 
 #### ⚙️ Backend & Databases :
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver,supabase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,nodejs,express,mysql,sqlserver,supabase,mongodb" />
 </p>
 
 #### 🌐 Frontend :
