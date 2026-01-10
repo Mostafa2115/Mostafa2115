@@ -73,13 +73,13 @@ and **better digital experiences** ✨, and I am always open to
   
 ---
   
-# 📊 GitHub Status :
+### 📊 GitHub Status :
 
   
   <p align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafa2115&show_icons=true&locale=en&theme=dark&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="mostafa2115" height=170 />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafa2115&show_icons=true&locale=en&theme=dark&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="mostafa2115" height=160 />
       <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=999" height=170/> -->
-     <img src="https://nirzak-streak-stats.vercel.app/?user=mostafa2115&theme=dark&hide_border=false" height=170/>
+     <img src="https://nirzak-streak-stats.vercel.app/?user=mostafa2115&theme=dark&hide_border=false" height=160/>
   </p>
   
   
