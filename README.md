@@ -6,6 +6,13 @@
 </p>
 
 # 🚀 About Me :
+<a href=#>
+  <img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif"
+       alt="Tech"
+       align="right"
+       width="35%">
+</a>
+
 > I am a passionate **web developer** 👨‍💻 specializing in **.NET** ⚙️ and **React** ⚛️,  
 focused on transforming ideas 💡 into **clean**, **scalable**, and **user-centric applications** 🎯.  
 > I enjoy building **reliable end-to-end systems** 🧩 with a strong emphasis on  
@@ -73,7 +80,6 @@ and **better digital experiences** ✨, and I am always open to
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafa2115&show_icons=true&locale=en&theme=dark&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="mostafa2115" height=170 />
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=999" height=170/>
   </p>
-
 
   ### ⚡ Fun Fact  
 > “Code is like humor. When you have to explain it, it’s bad.” 😄  
