@@ -10,7 +10,7 @@
   <img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif"
        alt="Tech"
        align="right"
-       width="35%">
+       width="50%">
 </a>
 
 > I am a passionate **web developer** 👨‍💻 specializing in **.NET** ⚙️ and **React** ⚛️,  
