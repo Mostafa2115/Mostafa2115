@@ -49,23 +49,17 @@ and **better digital experiences** ✨, and I am always open to
 
 
 # 🛠 Tech Stack :
+<div align="center">
+  
+| 💻 Languages | ⚙️ Backend & Databases |
+|-------------|-----------------------|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,java,php,cs" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,nodejs,express,mysql,sqlserver,supabase,mongodb" /> |
 
-#### 💻 Languages :
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,java,php,cs" />
+| 🌐 Frontend | 🧰 Tools |
+|------------|---------|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio" /> |
 
-
-
-#### ⚙️ Backend & Databases :
-<img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,nodejs,express,mysql,sqlserver,supabase,mongodb" />
-
-
-
-#### 🌐 Frontend :
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" />
-
-
-#### 🧰 Tools :
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio" />
+</div>
 
 
   
