@@ -53,7 +53,7 @@ and **better digital experiences** ✨, and I am always open to
   
 | 💻 Languages | ⚙️ Backend & Databases |
 |-------------|-----------------------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,java,php,cs" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,nodejs,express,mysql,sqlserver,supabase,mongodb" /> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,java,php,cs" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver,supabase" /> |
 
 | 🌐 Frontend | 🧰 Tools |
 |------------|---------|
