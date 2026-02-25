@@ -13,13 +13,11 @@
        width="30%">
 </a>
 
-> I am a passionate **web developer** specializing in **.NET** and **React**,  
-focused on transforming ideas into **clean**, **scalable**, and **user-centric applications**.  
-> I enjoy building **reliable end-to-end systems** with a strong emphasis on  
-**performance** and **clean architecture**.  
-> Continuously learning and improving, I strive to deliver **smarter solutions**  
-and **better digital experiences**, and I am always open to  
-**new opportunities**, **challenges**, and **collaborations**.
+> I am a passionate Full Stack .NET Developer dedicated to building scalable, high-performance web applications with clean and maintainable architecture.
+I specialize in developing robust backend systems using ASP.NET Core and RESTful APIs, while crafting responsive and user-friendly frontends.
+With a strong foundation in data structures, algorithms, and competitive programming, I approach problems with analytical thinking and performance in mind.
+I am committed to continuous learning, refining my system design skills, and delivering efficient end-to-end solutions that create real impact.
+Always open to new opportunities, challenges, and meaningful collaborations.
 
 - 📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9). 
   
