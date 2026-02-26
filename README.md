@@ -13,12 +13,7 @@
        width="30%">
 </a>
 
-> I am a passionate Full Stack .NET Developer dedicated to building scalable, high-performance web applications with clean and maintainable architecture.
-I specialize in developing robust backend systems using ASP.NET Core and RESTful APIs, while crafting responsive and user-friendly frontends.
-With a strong foundation in data structures, algorithms, and competitive programming, I approach problems with analytical thinking and performance in mind.
-I am committed to continuous learning, refining my system design skills, and delivering efficient end-to-end solutions that create real impact.
-Always open to new opportunities, challenges, and meaningful collaborations.
-
+> I am a Full Stack .NET Developer who builds clean, scalable, and high-performance web applications. I work with ASP.NET Core and RESTful APIs to create strong backend systems, and I build responsive, user-friendly frontends. I have a good foundation in data structures and algorithms, which helps me solve problems efficiently. I am always learning and improving my skills to deliver practical and reliable solutions. Open to new opportunities and collaborations.
 - 📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9). 
   
 
@@ -47,10 +42,11 @@ Always open to new opportunities, challenges, and meaningful collaborations.
 
 ### 🛠 Tech Stack :
 <div align="center">
-  
+
+    
 | 💻 Languages | ⚙️ Backend & Databases |
 |-------------|-----------------------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,php,cs" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver,supabase" /> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,php,cs" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver" /> |
 
 | 🌐 Frontend | 🧰 Tools |
 |------------|---------|
