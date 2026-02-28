@@ -6,12 +6,12 @@
 </p>
 
 ### 🚀 About Me :
-<a href=#>
+<!-- <a href=#>
   <img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif"
        alt="Tech"
        align="right"
        width="30%">
-</a>
+</a> -->
 
 > I am a Full Stack .NET Developer who builds clean, scalable, and high-performance web applications. I work with ASP.NET Core and RESTful APIs to create strong backend systems, and I build responsive, user-friendly frontends. I have a good foundation in data structures and algorithms, which helps me solve problems efficiently. I am always learning and improving my skills to deliver practical and reliable solutions. Open to new opportunities and collaborations.
 - 📄 Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9). 
