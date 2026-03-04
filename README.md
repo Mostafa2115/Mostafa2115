@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github.com/Mostafa2115/Mostafa2115/blob/main/MyBanner.png" alt="Banner" width="90%" />
 </p>
+
+---
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi👋🏻,+Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer" alt="Typing SVG" />
 </p>
@@ -15,7 +17,7 @@
 > I am a Full Stack .NET Developer who builds clean, scalable, and high-performance web applications. I work with ASP.NET Core and RESTful APIs to create strong backend systems, and I build responsive, user-friendly frontends. I have a good foundation in data structures and algorithms, which helps me solve problems efficiently. I am always learning and improving my skills to deliver practical and reliable solutions. Open to new opportunities and collaborations. Explore my journey, projects, and experience: [**CV**](https://flowcv.com/resume/rh8fe90babm9).  
   
 
-## 🤝🏻 Connect with me : 
+### 🤝🏻 Connect with me : 
 <p align="left">  
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Mostafa Mahmoud" height="50" width="50" />
