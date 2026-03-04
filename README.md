@@ -12,7 +12,7 @@
        width="30%">
 </a>  -->
 
-> I am a Full Stack .NET Developer who builds clean, scalable, and high-performance web applications. I work with ASP.NET Core and RESTful APIs to create strong backend systems, and I build responsive, user-friendly frontends. I have a good foundation in data structures and algorithms, which helps me solve problems efficiently. I am always learning and improving my skills to deliver practical and reliable solutions. Open to new opportunities and collaborations. Explore my journey, projects, and experience: [**My CV**](https://flowcv.com/resume/rh8fe90babm9).  
+> I am a Full Stack .NET Developer who builds clean, scalable, and high-performance web applications. I work with ASP.NET Core and RESTful APIs to create strong backend systems, and I build responsive, user-friendly frontends. I have a good foundation in data structures and algorithms, which helps me solve problems efficiently. I am always learning and improving my skills to deliver practical and reliable solutions. Open to new opportunities and collaborations. Explore my journey, projects, and experience: [**CV**](https://flowcv.com/resume/rh8fe90babm9).  
   
 
 ### 🤝🏻 Connect with me : 
