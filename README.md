@@ -18,25 +18,15 @@
   
 
 ### 🤝🏻 Connect with me : 
-<p align="left">  
-  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Mostafa Mahmoud" height="50" width="50" />
-</a>&nbsp;&nbsp;
 
-<a href="mailto:mostafaamahmoud075@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="50" />
-</a>&nbsp;&nbsp;
-
-<a href="https://codeforces.com/profile/Mostafa3X" target="blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-       alt="Codeforces Profile"
-       height="50"
-       width="50" />
+<a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-
-</p> 
+<a href="mailto:mostafaamahmoud075@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+ 
 
 
 
