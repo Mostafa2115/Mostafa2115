@@ -16,7 +16,6 @@
 
 > I am a Full Stack .NET Developer who builds clean, scalable, and high-performance web applications. I work with ASP.NET Core and RESTful APIs to create strong backend systems, and I build responsive, user-friendly frontends. I have a good foundation in data structures and algorithms, which helps me solve problems efficiently. I am always learning and improving my skills to deliver practical and reliable solutions. Open to new opportunities and collaborations. Explore my journey, projects, and experience: [**CV**](https://flowcv.com/resume/rh8fe90babm9).  
   
----
 
 ### 🤝🏻 Connect with me : 
 <p align="left">  
@@ -62,11 +61,16 @@
 ### 📊 GitHub Status :
 
   
-  <p align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafa2115&show_icons=true&locale=en&theme=dark&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="mostafa2115" height=160 />
-      <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=999" height=170/> -->
-     <img src="https://nirzak-streak-stats.vercel.app/?user=mostafa2115&theme=dark&hide_border=false" height=160/>
-  </p>
+ <p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" height="160"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=mostafa2115&theme=tokyonight&border_radius=10" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&theme=tokyonight&border_radius=10"/>
+
+</p>
+
   
   
 
