@@ -20,11 +20,11 @@
 ### 🤝🏻 Connect with me : 
 
 <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55" width="55"/>
+</a>&nbsp;
 
 <a href="mailto:mostafaamahmoud075@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="65" width="55"/>
 </a>
  
 
