@@ -58,6 +58,8 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=mostafa2115&theme=tokyonight&border_radius=10" height="160"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&theme=tokyonight&border_radius=10"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&theme=react-dark&bg_color=20232a&hide_border=false" width="100%"/>
+
 
 </p>
 
