@@ -36,11 +36,11 @@
     
 | 💻 Languages | ⚙️ Backend & Databases |
 |-------------|-----------------------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,java,php,cs" width=365/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver" width=300/> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,java,php,cs" width=315/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver" width=250/> |
 
 | 🌐 Frontend | 🧰 Tools |
 |------------|---------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,tailwind,bootstrap" width=365/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio" width=365/> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,tailwind,bootstrap" width=315/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio" width=315/> |
 
 </div>
 
