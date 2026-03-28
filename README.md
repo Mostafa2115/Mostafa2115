@@ -32,7 +32,7 @@
 
 ### 🛠 Tech Stack :
 
-<div align="left">
+<div align="center">
 
     
 | 💻 Languages | ⚙️ Backend & Databases |
@@ -54,10 +54,6 @@
   
  <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mostafa2115&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" height="160"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=mostafa2115&theme=tokyonight&border_radius=10" height="160"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&theme=tokyonight&border_radius=10"/>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&theme=react-dark&bg_color=20232a&hide_border=false" width="100%"/>
 
@@ -73,7 +69,4 @@
 
   
 
-<!---
-Mostafa2115/Mostafa2115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
