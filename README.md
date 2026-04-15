@@ -55,6 +55,9 @@
   
 ### 📊 GitHub Status :
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
   
  <p align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&theme=react-dark&bg_color=20232a&hide_border=false" width="100%"/>
