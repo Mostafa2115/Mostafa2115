@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="30%">
 </a>
 
->- Full Stack Developer specialized in **ASP.NET Core** and **Laravel**. I build **scalable, high-performance web applications** and **RESTful APIs** with clean and maintainable code. Strong in problem-solving, data structures, and algorithms. Focused on backend development with solid frontend experience. Always learning and exploring new technologies. Open to freelance, internships, and full-time opportunities. Explore my [**CV**](https://flowcv.com/resume/rh8fe90babm9)  
+> Full Stack Developer specialized in **ASP.NET Core** and **Laravel**. I build **scalable, high-performance web applications** and **RESTful APIs** with clean and maintainable code. Strong in problem-solving, data structures, and algorithms. Focused on backend development with solid frontend experience. Always learning and exploring new technologies. Open to freelance, internships, and full-time opportunities. Explore my [**CV**](https://flowcv.com/resume/rh8fe90babm9)  
   
 
 ### 🤝🏻 Connect with me : 
