@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://github.com/Mostafa2115/Mostafa2115/blob/main/MyBanner.png" alt="Banner"  />
+  <img src="https://github.com/Mostafa2115/Mostafa2115/blob/main/MyBanner.png" alt="Banner" />
 </p>
 
 
@@ -47,15 +47,10 @@
 ### 📊 GitHub Status :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2115&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa2115&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="35%" />
 </div>
-  
-<!-- <p align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&theme=react-dark&bg_color=20232a&hide_border=false" width="100%"/>
-</p> -->
 
-  
-  
 
 
   ### ⚡ Fun Fact  
