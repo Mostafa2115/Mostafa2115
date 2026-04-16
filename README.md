@@ -47,7 +47,7 @@
 ### 📊 GitHub Status :
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa2115&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa2115&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="35%" />
 </div>
 
