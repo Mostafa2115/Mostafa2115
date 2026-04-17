@@ -36,7 +36,7 @@
 
 | 🌐 Frontend | 🧰 Tools |
 |------------|---------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" width=250/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio" width=315/> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" width=250/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,swagger,vscode,visualstudio" width=370/> |
 
 </div>
 
