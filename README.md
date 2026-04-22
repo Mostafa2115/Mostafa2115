@@ -29,10 +29,10 @@
 
 </div>
 
-> I’m a Computer Science student and Full Stack Developer focused on .NET technologies, specializing in building scalable web applications and RESTful APIs. I enjoy working with clean architecture, backend systems, and turning ideas into production-ready solutions.
-My main stack is ASP.NET Core, REST APIs, SQL Server, and database design. I also have experience with Laravel (PHP), MySQL, and frontend basics like HTML, CSS, and Bootstrap.
-I’ve built multiple full-stack and backend projects with authentication systems and scalable database structures. Currently, I’m focusing on improving my skills in .NET, system design, and backend scalability.
-I’m open to internships, freelance work, and backend/.NET opportunities. Explore my [**CV**](https://flowcv.com/resume/rh8fe90babm9) 
+> I’m a **Computer Science student** and **Full Stack Developer** focused on **.NET** technologies. I build scalable web applications and RESTful APIs using **ASP.NET Core**, with a strong interest in clean architecture and backend systems.
+> My stack includes **ASP.NET Core**, RESTful APIs, **SQL Server**, and database design, along with experience in **Laravel**, **MySQL**, and frontend basics.
+> I’ve built multiple full-stack projects and I’m currently focused on improving my skills in .NET and system design.
+> I’m open to internships, freelance work, and backend/.NET opportunities. Explore my [**CV**](https://flowcv.com/resume/rh8fe90babm9) 
   
 
  
@@ -68,8 +68,9 @@ I’m open to internships, freelance work, and backend/.NET opportunities. Explo
   
 ### 📊 &nbsp;GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa2115&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa2115&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
+   
 </div>
 
 
