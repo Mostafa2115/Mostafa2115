@@ -1,19 +1,15 @@
- <p align="center">
-  <img src="https://github.com/Mostafa2115/Mostafa2115/blob/main/MyBanner.png" alt="Banner" />
-</p>
-
-
-<p align="center"> 
+<a>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="30%">
+</a>
+<p align="left"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋🏻,+Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+Developer;ASP.NET+Core+%26+Laravel" alt="Typing SVG" />
 </p>
 
  
 
-<a>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="30%">
-</a>
 
-> Full Stack Developer specialized in **ASP.NET Core** and **Laravel**. I build **scalable, high-performance web applications** and **RESTful APIs** with clean and maintainable code. Strong in problem-solving, data structures, and algorithms. Focused on backend development with solid frontend experience. Always learning and exploring new technologies. Open to freelance, internships, and full-time opportunities. Explore my [**CV**](https://flowcv.com/resume/rh8fe90babm9)  
+
+<!-- > Full Stack Developer specialized in **ASP.NET Core** and **Laravel**. I build **scalable, high-performance web applications** and **RESTful APIs** with clean and maintainable code. Strong in problem-solving, data structures, and algorithms. Focused on backend development with solid frontend experience. Always learning and exploring new technologies. Open to freelance, internships, and full-time opportunities. Explore my [**CV**](https://flowcv.com/resume/rh8fe90babm9)  --> 
   
 
 ### 🤝🏻 Connect with me : 
@@ -27,16 +23,16 @@
 
 ### 🛠 Tech Stack :
 
-<div align="center">
+<div align="left">
 
     
 | 💻 Languages | ⚙️ Backend & Databases |
 |-------------|-----------------------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,php,cs" width=300/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver" width=250/> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,php,cs" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver"/> |
 
 | 🌐 Frontend | 🧰 Tools |
 |------------|---------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" width=250/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,swagger,vscode,visualstudio" width=370/> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap"/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,swagger,vscode,visualstudio"/> |
 
 </div>
 
