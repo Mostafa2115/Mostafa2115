@@ -76,7 +76,13 @@
 
 
   ### ⚡ Fun Fact  
-> “Code is like humor. When you have to explain it, it’s bad.” 😄  
+> “Code is like humor. When you have to explain it, it’s bad.” 😄
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:1f6feb,100:1f6feb&height=120&section=footer"/>
+  
+  </div>
 
   
 
