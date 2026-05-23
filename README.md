@@ -68,8 +68,8 @@
   
 ### 📊 &nbsp;GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa2115&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="290"/>
+    <img src="https://streak-stats.demolab.com?user=mostafa2115&theme=dark&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=dark&border_radius=20&langs_count=999" height="160"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&theme=react-dark" width="700"/>
 </div>
 
