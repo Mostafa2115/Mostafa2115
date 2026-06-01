@@ -9,7 +9,12 @@
 </p>
 
 <div align="center">
-  
+  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mostafaamahmoud075@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-F80000?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
   <img src="https://img.shields.io/github/followers/mostafa2115?label=Followers&style=for-the-badge&color=ffffff&labelColor=0d1117" alt="GitHub Followers" />
 
 </div>
@@ -19,7 +24,7 @@
 
  
 <a>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="30%">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="27%">
 </a>
 
 <div align="left">
@@ -34,15 +39,7 @@
 > I’m open to internships, freelance work, and backend/.NET opportunities. Explore my [**CV**](https://flowcv.com/resume/rh8fe90babm9) 
   
 
- 
-<p align="left">
-  
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55" width="55"/>
-</a>&nbsp;
-</p>
  
 
 
