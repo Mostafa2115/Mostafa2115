@@ -1,17 +1,16 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:1f6feb,100:1f6feb&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20&descAlignY=55&descSize=18"/>
+<!-- 1f6feb -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ffffff,100:ffffff&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=000000&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20&descAlignY=55&descSize=18"/>
 </div>
 </div>
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Hi👋🏻,+Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+RESTful+APIs+|+SQL+Server;Laravel+|+MySQL+|+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Hi👋🏻,+Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+RESTful+APIs+|+SQL+Server;Laravel+|+MySQL+|+Tailwind+CSS" alt="Typing SVG" />
 </p>
 
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=mostafa2115&label=Profile+Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/mostafa2115?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117" alt="GitHub Followers" />
+  
+  <img src="https://img.shields.io/github/followers/mostafa2115?label=Followers&style=for-the-badge&color=ffffff&labelColor=0d1117" alt="GitHub Followers" />
 
 </div>
 
