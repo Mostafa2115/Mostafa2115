@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- 1f6feb -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f6feb,100:1f6feb&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20&descAlignY=55&descSize=18"/>
+<!-- 1f6feb 0A66C2 0d1117 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ffffff,100:ffffff&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=000000&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20&descAlignY=55&descSize=18"/>
 </div>
 </div>
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Hi👋🏻,+Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+RESTful+APIs+|+SQL+Server;Laravel+|+MySQL+|+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Hi👋🏻,+Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+RESTful+APIs+|+SQL+Server;Laravel+|+MySQL+|+Tailwind+CSS" alt="Typing SVG" />
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/github/followers/mostafa2115?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/mostafa2115?label=Followers&style=for-the-badge&color=ffffff&labelColor=000000" alt="GitHub Followers" />
 
 </div>
 
@@ -45,13 +45,9 @@
 
 <div align="center">
     
-| 💻 Languages | ⚙️ Backend & Databases |
-|-------------|-----------------------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,php,cs" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver"/> |
-
-| 🌐 Frontend | 🧰 Tools |
-|------------|---------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap"/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,swagger,vscode,visualstudio"/> |
+| 💻 Languages | ⚙️ Backend & Databases | 🌐 Frontend | 🧰 Tools |
+|-------------|------------------------|------------|---------|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,php,cs" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,swagger,vscode,visualstudio" /> |
 
 </div>
 
@@ -61,9 +57,20 @@
   
 ### 📊 &nbsp;GitHub Stats
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=mostafa2115&theme=dark&border_radius=10" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=dark&border_radius=20&langs_count=999" height="160"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&theme=react-dark" width="700"/>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats" height="170"
+  />
+  <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6"
+    alt="Top Languages" height="170"
+  />
+  <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=false&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
+  alt="Activity Graph"
+  width="80%"
+/>
+
+
 </div>
 
 
