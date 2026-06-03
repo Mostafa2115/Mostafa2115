@@ -20,9 +20,13 @@
 
 
  
-<a>
+<!-- <a>
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="27%">
+</a> -->
+<a>
+  <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="27%" align="right" style="margin-right: 15px;">
 </a>
+
 
 <div align="left">
 
