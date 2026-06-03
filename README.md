@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- 1f6feb 0A66C2 0d1117 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=000000&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20&descAlignY=55&descSize=18"/>
+<!-- 1f6feb 0A66C2  -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ffffff,100:ffffff&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=000000&fontAlignY=30&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20&descAlignY=50&descSize=18"/>
 </div>
 </div>
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Hi👋🏻,+Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+RESTful+APIs+|+SQL+Server;Laravel+|+MySQL+|+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+RESTful+APIs+|+SQL+Server;Laravel+|+MySQL+|+Tailwind+CSS" alt="Typing SVG" />
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/github/followers/mostafa2115?label=Followers&style=for-the-badge&color=ffffff&labelColor=000000" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/mostafa2115?label=Followers&style=for-the-badge&color=ffffff&labelColor=0d1117" alt="GitHub Followers" />
 
 </div>
 
@@ -89,7 +89,7 @@
   <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=false&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
   alt="Activity Graph"
-  width="90%"
+  width="100%"
 />
 
 
