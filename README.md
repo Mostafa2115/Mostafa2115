@@ -23,9 +23,13 @@
 <!-- <a>
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="27%">
 </a> -->
-<a>
+<!-- <a>
   <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="27%" align="right" style="margin-right: 15px;">
-</a>
+</a> -->
+
+<a>
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA2MTAwNjMsIm5iZiI6MTc4MDYwOTc2MywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjA0VDIxNDkyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzMWUxN2NlMTg3OTFhOGM3YTMzZWI0N2M1YWJhZjhmYzNhMzI2MWNhNmYyZTVlMTgxZjEwODhjZjQ4NmRmYmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.RmrGxX-2GN3yjXAr5nQPF6NFWl_CeKgbcJgWiJxMaIM" align="right" width="27%">
+</a> 
 
 
 <div align="left">
@@ -95,10 +99,14 @@
 
 </div>
 
-
+<a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="center" width="100%">
+</a>
 
   ### ⚡ Fun Fact  
 > “Code is like humor. When you have to explain it, it’s bad.” 😄
+
+
 
 
   
