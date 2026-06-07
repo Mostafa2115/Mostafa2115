@@ -12,8 +12,9 @@
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-    <img src="https://img.shields.io/github/followers/mostafa2115?label=Followers&style=for-the-badge&color=fffff5&labelColor=0d1117" alt="GitHub Followers" />
-
+  <a href="mostafaamahmoud075@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
+  </a>
 </div>
 
 <br/>
