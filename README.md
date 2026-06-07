@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-  <a href="mostafaamahmoud075@gmail.com" target="_blank">
+  <a href="mailto:mostafaamahmoud075@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
   </a>
 </div>
