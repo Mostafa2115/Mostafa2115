@@ -55,22 +55,22 @@
     
 <table>
   <tr>
-    <th>💻 Languages</th>
-    <th>⚙️ Backend & Databases</th>
+    <th>🚀 Development Stack</th>
   </tr>
   <tr>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,javascript,php,cs" /></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver" /></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,javascript,dotnet,sqlserver,html,css,tailwind,bootstrap" />
+    </td>
   </tr>
 </table>
 <table>
   <tr>
-    <th>🌐 Frontend</th>
-    <th>🧰 Tools</th>
+    <th>🛠️ Tools & Technologies</th>
   </tr>
   <tr>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" /></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,swagger,vscode,visualstudio" /></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,swagger,vscode,visualstudio" />
+    </td>
   </tr>
 </table>
 
