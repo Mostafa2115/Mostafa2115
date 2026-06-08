@@ -59,7 +59,7 @@
     <th>⚙️ Backend & Databases</th>
   </tr>
   <tr>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,php,cs" /></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,javascript,php,cs" /></td>
     <td><img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver" /></td>
   </tr>
 </table>
