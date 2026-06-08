@@ -5,7 +5,7 @@
 </div>
 </div>
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+RESTful+APIs+|+SQL+Server;Laravel+|+MySQL+|+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -40,7 +40,7 @@
 </div>
 
 > I’m a **Computer Science student** and **Full Stack Developer** focused on **.NET** technologies. I build scalable web applications and RESTful APIs using **ASP.NET Core**, with a strong interest in clean architecture and backend systems.
-> My stack includes **ASP.NET Core**, RESTful APIs, **SQL Server**, and database design, along with experience in **Laravel**, **MySQL**, and frontend basics.
+> My stack includes **ASP.NET Core**, RESTful APIs, **SQL Server**, and database design, and frontend basics.
 > I’ve built multiple full-stack projects and I’m currently focused on improving my skills in .NET and system design.
 > I’m open to internships, freelance work, and backend/.NET opportunities. Explore my [**CV**](https://flowcv.com/resume/rh8fe90babm9) 
   
