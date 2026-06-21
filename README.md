@@ -1,25 +1,25 @@
 <div align="center">
 
 <!-- 1f6feb 0A66C2  -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f6feb,100:1f6feb&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20&descAlignY=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=000000&fontAlignY=30&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20&descAlignY=50&descSize=18"/>
 </div>
 </div>
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1f6feb&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full+Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="https://mostafaamahmoud.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://github.com/Mostafa2115">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   </a>
   <a href="mailto:mostafaamahmoud075@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
   </a>
   
 </div>
@@ -28,17 +28,17 @@
 
 
  
-<a>
+<!-- <a>
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="27%">
-</a>
+</a> -->
 
 <!-- <a>
   <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="27%" align="right" style="margin-right: 15px;">
 </a> -->
 
-<!-- <a>
+ <a>
   <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA2MTAwNjMsIm5iZiI6MTc4MDYwOTc2MywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjA0VDIxNDkyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzMWUxN2NlMTg3OTFhOGM3YTMzZWI0N2M1YWJhZjhmYzNhMzI2MWNhNmYyZTVlMTgxZjEwODhjZjQ4NmRmYmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.RmrGxX-2GN3yjXAr5nQPF6NFWl_CeKgbcJgWiJxMaIM" align="right" width="30%">
-</a>  -->
+</a>  
 
 
 <div align="left">
