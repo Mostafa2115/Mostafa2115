@@ -20,6 +20,10 @@
   <a href="https://mostafaamahmoud.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
+  <a href="https://flowcv.com/resume/rh8fe90babm9" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
+  </a>
+  
   
 </div>
 
@@ -48,8 +52,7 @@
 > I’m a **Computer Science student** and **Full Stack Developer** focused on **.NET** technologies. I build scalable web applications and RESTful APIs using **ASP.NET Core**, with a strong interest in clean architecture and backend systems.
 > My stack includes **ASP.NET Core**, RESTful APIs, **SQL Server**, and database design, and frontend basics.
 > I’ve built multiple full-stack projects and I’m currently focused on improving my skills in .NET and system design.
-> I’m open to internships, freelance work, and backend/.NET opportunities. Explore my [**CV**](https://flowcv.com/resume/rh8fe90babm9) 
-  
+> I’m open to internships, freelance work, and backend/.NET opportunities.
 
 
  
