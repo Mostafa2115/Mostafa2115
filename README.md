@@ -79,12 +79,12 @@
   <img width="12" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" />
   <img width="12" />
+  <br><br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
   <img width="12"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
   <img width="12" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" />
-  <br><br>
   <img width="12" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" />
   <img width="12" />
