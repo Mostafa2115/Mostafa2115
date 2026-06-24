@@ -62,28 +62,36 @@
 
 <div align="center" width="90%">
     
-<table>
-  <tr>
-    <th>🚀 Development Stack</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,javascript,dotnet,sqlserver,html,css,tailwind,bootstrap" />
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>🛠️ Tools & Technologies</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,swagger,vscode,visualstudio" />
-    </td>
-  </tr>
-</table>
 
-
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" />
+  <img width="12"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" />
 </div>
 
 
