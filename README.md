@@ -64,35 +64,34 @@
 <div align="center">
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="40" />
-<img width="8" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" height="40" />
-
 </div>
 
 
