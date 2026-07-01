@@ -57,42 +57,48 @@
 
  
 
+### <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA4NDE0MjcsIm5iZiI6MTc4MDg0MTEyNywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjA3VDE0MDUyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMzJjNzg2ZjQ5YTU3MWUwYjUzYmZhMzZhNWE2ODI5Mzc5NGMyZWM1NWRmZjVjOTlhOGVkMmViMzIwYmI3M2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.F_n5UY6WaNlg-m62Rx011Jry1_yV6OguGQ5XIVcD-rA" width="28"> &nbsp;Tech Stack 
 
-### <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA4NDE0MjcsIm5iZiI6MTc4MDg0MTEyNywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjA3VDE0MDUyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMzJjNzg2ZjQ5YTU3MWUwYjUzYmZhMzZhNWE2ODI5Mzc5NGMyZWM1NWRmZjVjOTlhOGVkMmViMzIwYmI3M2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.F_n5UY6WaNlg-m62Rx011Jry1_yV6OguGQ5XIVcD-rA" width="28"> &nbsp;Tech Stack
 
-<br>
-<div align="center" width="50%">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" />
-  <img width="6"  />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" />
-  <img width="6" />
-  <!-- <br><br> -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
-  <img width="6"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" />
-  <img width="6" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" />
-</div>
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=css" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postman" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" />
+<img width="8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" />
+
+</td>
+</tr>
+</table>
+
+
 
 
 
