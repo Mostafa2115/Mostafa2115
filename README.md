@@ -57,12 +57,15 @@
 
  
 
-### ⚙️ &nbsp;Tech Stack 
 
-
-
-<div align="center">
-
+<table align="center">
+<tr>
+  <td align="center">
+    <b>⚙️ &nbsp;Tech Stack</b>
+  </td>
+</tr>
+<td align="center">
+  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" height="40" />
 <img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" height="40" />
@@ -92,8 +95,9 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="40" />
 <img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" height="40" />
-</div>
-
+</td>
+</tr>
+</table>
 
 
   
