@@ -10,7 +10,7 @@
 
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=30&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=30&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
 </p>
 
 <div align="center">
