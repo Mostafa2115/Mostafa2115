@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
   </a>
 </div>
-
+<br>
 
 <table align="center">
 <tr>
