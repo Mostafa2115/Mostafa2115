@@ -13,25 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=30&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Mostafa2115">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  </a>
-  <a href="mailto:mostafaamahmoud075@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
-  </a>
-  <a href="https://mostafaamahmoud.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://flowcv.com/resume/rh8fe90babm9" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
-  </a>
-  
-  
-</div>
+
 
 
 
@@ -61,7 +43,23 @@
 > I’m open to internships, freelance work, and backend/.NET opportunities.
 
 
- 
+ <div align="center">
+  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Mostafa2115">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+  </a>
+  <a href="mailto:mostafaamahmoud075@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
+  </a>
+  <a href="https://mostafaamahmoud.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://flowcv.com/resume/rh8fe90babm9" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
+  </a>
+</div>
 
 
 <table align="center">
