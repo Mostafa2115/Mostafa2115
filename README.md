@@ -3,9 +3,9 @@
  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=000000&fontAlignY=30&desc=Software%20Engineer%20%7C%20Full-Stack%20.NET%20Developer%20&descAlignY=50&descSize=18"/>
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
-</p>
+</p> -->
 
 <p align="center">
   <img src="profile_card.svg" alt="Mostafa Mahmoud" width="100%" />
