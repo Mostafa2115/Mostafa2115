@@ -109,14 +109,19 @@
   
 
   
+
 <div align="center">
-  <img 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mostafa2115&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=mostafa2115&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Mostafa's streak" />
+</picture>
+  <!-- <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-    alt="GitHub Stats" height="170"
+    alt="GitHub Stats" height="170" 
   />
   <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6"
     alt="Top Languages" height="170"
-  />
+  /> -->
   <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=false&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
   alt="Activity Graph"
