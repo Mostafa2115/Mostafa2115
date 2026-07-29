@@ -3,15 +3,17 @@
  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=000000&fontAlignY=30&desc=Software%20Engineer%20%7C%20Full-Stack%20.NET%20Developer%20&descAlignY=50&descSize=18"/>
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
+</p> -->
+
+<p align="center">
+  <img src="profile_card.svg" alt="Mostafa Mahmoud" width="95%" />
 </p>
 
-
-
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=30&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
-</p>
+</p> -->
 
 
 
@@ -43,7 +45,7 @@
 > I’m open to internships, freelance work, and backend/.NET opportunities.
 
 
- <div align="center">
+ <!-- <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
@@ -60,7 +62,7 @@
     <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
   </a>
 </div>
-<br>
+<br> -->
 
 <table align="center">
 <tr>
@@ -107,7 +109,6 @@
   
 
   
-### 📊 &nbsp;GitHub Stats
 <div align="center">
   <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
