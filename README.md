@@ -20,9 +20,9 @@
 
 
  
-<a>
+<!-- <a>
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="27%">
-</a> 
+</a>  -->
 
 <!-- <a>
   <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="27%" align="right" style="margin-right: 15px;">
@@ -33,7 +33,7 @@
 </a>  -->
 
 
-<div align="left">
+<!-- <div align="left">
 
   ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
@@ -43,7 +43,7 @@
 > My stack includes **ASP.NET Core**, RESTful APIs, **SQL Server**, and database design, and frontend basics.
 > I’ve built multiple full-stack projects and I’m currently focused on improving my skills in .NET and system design.
 > I’m open to internships, freelance work, and backend/.NET opportunities.
-
+ -->
 
  <!-- <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
