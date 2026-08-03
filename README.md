@@ -64,7 +64,7 @@
 </div>
 <br> -->
 
-<!-- <table align="center">
+<table align="center">
 <tr>
   <td align="center">
     <b>⚙️ &nbsp;Tech Stack</b>
@@ -103,7 +103,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" height="40" />
 </td>
 </tr>
-</table> -->
+</table> 
 
 
   
