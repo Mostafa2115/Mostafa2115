@@ -3,26 +3,26 @@
  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=000000&fontAlignY=30&desc=Software%20Engineer%20%7C%20Full-Stack%20.NET%20Developer%20&descAlignY=50&descSize=18"/>
 </div> -->
 
-<!-- <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-</p> -->
-
 <p align="center">
-  <img src="profile_card.svg" alt="Mostafa Mahmoud" width="90%" />
-</p>
+  <img src="banner.png" alt="Banner" width="100%">
+</p> 
 
-<!-- <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=30&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
+<!-- <p align="center">
+  <img src="profile_card.svg" alt="Mostafa Mahmoud" width="100%" />
 </p> -->
+
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=30&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
+</p>
 
 
 
 
 
  
-<!-- <a>
+<a>
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="27%">
-</a>  -->
+</a> 
 
 <!-- <a>
   <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="27%" align="right" style="margin-right: 15px;">
@@ -33,7 +33,7 @@
 </a>  -->
 
 
-<!-- <div align="left">
+<div align="left">
 
   ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
@@ -43,9 +43,8 @@
 > My stack includes **ASP.NET Core**, RESTful APIs, **SQL Server**, and database design, and frontend basics.
 > I’ve built multiple full-stack projects and I’m currently focused on improving my skills in .NET and system design.
 > I’m open to internships, freelance work, and backend/.NET opportunities.
- -->
 
- <!-- <div align="center">
+ <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
@@ -62,7 +61,7 @@
     <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
   </a>
 </div>
-<br> -->
+<br>
 
 <table align="center">
 <tr>
@@ -115,13 +114,13 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mostafa2115&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
   <img width="100%" src="https://streak-stats.demolab.com/?user=mostafa2115&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Mostafa's streak" />
 </picture>
-  <!-- <img 
+  <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     alt="GitHub Stats" height="170" 
   />
   <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6"
     alt="Top Languages" height="170"
-  /> -->
+  /> 
   <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=false&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
   alt="Activity Graph"
@@ -131,9 +130,9 @@
 
 </div>
 
-<!-- <a>
+<a>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="center" width="100%">
-</a> -->
+</a>
 
   ### ⚡ Fun Fact  
 > “Code is like humor. When you have to explain it, it’s bad.” 😄
