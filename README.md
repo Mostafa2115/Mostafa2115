@@ -8,7 +8,7 @@
 </p> -->
 
 <p align="center">
-  <img src="profile_card.svg" alt="Mostafa Mahmoud" width="100%" />
+  <img src="profile_card.svg" alt="Mostafa Mahmoud" width="90%" />
 </p>
 
 <!-- <p align="center"> 
