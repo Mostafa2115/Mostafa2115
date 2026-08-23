@@ -3,13 +3,13 @@
  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=200&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=000000&fontAlignY=30&desc=Software%20Engineer%20%7C%20Full-Stack%20.NET%20Developer%20&descAlignY=50&descSize=18"/>
 </div> -->
 
-<!-- <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-</p>  -->
-
 <p align="center">
-  <img src="profile_card.svg" alt="Mostafa Mahmoud" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
+
+<!-- <p align="center">
+  <img src="profile_card.svg" alt="Mostafa Mahmoud" width="100%" />
+</p> -->
 
 <!-- <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=30&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
@@ -44,7 +44,7 @@
 > I’ve built multiple full-stack projects and I’m currently focused on improving my skills in .NET and system design.
 > I’m open to internships, freelance work, and backend/.NET opportunities.
 
- <!-- <div align="center">
+ <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
@@ -60,7 +60,7 @@
   <a href="https://flowcv.com/resume/rh8fe90babm9" target="_blank">
     <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
   </a>
-</div> -->
+</div>
 <br>
 
 <table align="center">
