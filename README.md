@@ -81,6 +81,8 @@
 <img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="40" />
 <img width="6" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" height="40" />
+<img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="40" />
 <img width="6" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="40" />
