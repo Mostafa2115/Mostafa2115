@@ -89,8 +89,6 @@
 <img width="3" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" height="40" />
 <img width="3" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" height="40" />
-<img width="3" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="40" />
 <img width="3" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="40" />
