@@ -109,7 +109,7 @@
 
   
 
-<div align="center">
+<!-- <div align="center">
   <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     alt="GitHub Stats" height="170" 
@@ -124,14 +124,14 @@
 /> -->
 
 
-</div>
+<!-- </div> -->
 
 <!-- <a>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="center" width="100%">
 </a> -->
 
   ### ⚡ Fun Fact  
-> “Code is like humor. When you have to explain it, it’s bad.” 😄
+> “Code is like humor. When you have to explain it, it’s bad.” 
 
 
 
