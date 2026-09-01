@@ -61,16 +61,14 @@
     <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
   </a>
 </div>
-<br>
 
-<table align="center">
-<tr>
-  <td align="center">
-    <b>⚙️ &nbsp;Tech Stack</b>
-  </td>
-</tr>
-<td align="center">
-  
+
+---
+
+ ### ⚙️ &nbsp;Tech Stack</b>
+
+  <div align="center">
+    
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" height="40" />
 <img width="3" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" height="40" />
@@ -100,16 +98,14 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="40" />
 <img width="3" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" height="40" />
-</td>
-</tr>
-</table> 
+</div>
 
 
+---
   
-
-  
-
-<!-- <div align="center">
+ ### GitHub Status
+<div align="center">
+ 
   <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     alt="GitHub Stats" height="170" 
@@ -117,14 +113,7 @@
   <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6"
     alt="Top Languages" height="170"
   /> 
-  <!--<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa2115&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=false&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
-  alt="Activity Graph"
-  width="100%"
-/> -->
-
-
-<!-- </div> -->
+</div>
 
 <!-- <a>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="center" width="100%">
