@@ -42,7 +42,8 @@
 > I’m a **Computer Science student** and **Full-Stack Developer** focused on **.NET** technologies. I build scalable web applications and RESTful APIs using **ASP.NET Core**, with a strong interest in clean architecture and backend systems.
 > My stack includes **ASP.NET Core**, RESTful APIs, **SQL Server**, and database design, and frontend basics.
 > I’ve built multiple full-stack projects and I’m currently focused on improving my skills in .NET and system design.
-> I’m open to internships, freelance work, and backend/.NET opportunities.
+> I’m open to internships, freelance work, and backend/.NET opportunities. 
+> - “Code is like humor. When you have to explain it, it’s bad.” 
 
  <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
@@ -129,9 +130,6 @@
 <!-- <a>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="center" width="100%">
 </a> -->
-
-  ### ⚡ Fun Fact  
-> “Code is like humor. When you have to explain it, it’s bad.” 
 
 
 
