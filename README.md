@@ -63,7 +63,6 @@
 </div>
 
 
-<br>
 
  ### ⚙️ &nbsp;Tech Stack</b>
 
@@ -101,7 +100,6 @@
 </div>
 
 
-<br>
   
  ### GitHub Status
 <div align="center">
