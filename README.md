@@ -63,7 +63,7 @@
 </div>
 
 
----
+<br>
 
  ### ⚙️ &nbsp;Tech Stack</b>
 
@@ -101,17 +101,17 @@
 </div>
 
 
----
+<br>
   
  ### GitHub Status
 <div align="center">
- 
+    <img height="140" src="https://streak-stats.demolab.com/?user=mostafa2115&theme=react&border=ffffff&hide_border=false" alt="GitHub Streak" />
   <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-    alt="GitHub Stats" height="170" 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&theme=react"
+    alt="GitHub Stats" height="140" 
   />
-  <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6"
-    alt="Top Languages" height="170"
+  <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&hide_border=false&theme=react&langs_count=6"
+    alt="Top Languages" height="140"
   /> 
 </div>
 
