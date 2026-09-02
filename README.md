@@ -44,7 +44,7 @@
 > I’ve built multiple full-stack projects and I’m currently focused on improving my skills in .NET and system design.
 > I’m open to internships, freelance work, and backend/.NET opportunities. 
 
- <div align="center">
+ <div align="left">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
