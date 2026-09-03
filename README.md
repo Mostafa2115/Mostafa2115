@@ -103,7 +103,9 @@
   
  ### GitHub Status
 <div align="center">
-    <img height="120" src="https://streak-stats.demolab.com/?user=mostafa2115&theme=react&border=ffffff&hide_border=false" alt="GitHub Streak" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa2115&theme=react&border=ffffff" width="80%"/>
+
+   <img height="120" src="https://streak-stats.demolab.com/?user=mostafa2115&theme=react&border=ffffff&hide_border=false" alt="GitHub Streak" />
   <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&theme=react"
     alt="GitHub Stats" height="120" 
