@@ -104,7 +104,6 @@
   
  ### GitHub Status
 <div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa2115&theme=react&border=ffffff" width="90%"/>
 
    <img height="120" src="https://streak-stats.demolab.com/?user=Mostafa2115&theme=react&border=ffffff&hide_border=false" alt="GitHub Streak" />
   <img 
