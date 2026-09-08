@@ -10,6 +10,23 @@
 <p align="center">
   <img src="profile_banner.svg" alt="Mostafa Mahmoud" width="100%" />
 </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Mostafa2115">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+  </a>
+  <a href="mailto:mostafaamahmoud075@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
+  </a>
+  <a href="https://mostafaamahmoud.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://flowcv.com/resume/rh8fe90babm9" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
+  </a>
+</div>
 
 <!-- <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=30&lines=Welcome+to+my+Galaxy;I'm+Mostafa+Mahmoud;Full-Stack+.NET+Developer;ASP.NET+Core+|+SQL+Server+|+RESTful+APIs" alt="Typing SVG" />
@@ -43,23 +60,7 @@
 > Passionate about backend engineering, clean architecture, and system design, with hands-on experience in SQL Server and full-stack projects.
 > Open to internships, freelance work, and backend/.NET opportunities.
 
- <div align="left">
-  <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Mostafa2115">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  </a>
-  <a href="mailto:mostafaamahmoud075@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
-  </a>
-  <a href="https://mostafaamahmoud.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://flowcv.com/resume/rh8fe90babm9" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
-  </a>
-</div>
+ 
 
 
 
@@ -104,14 +105,12 @@
   
  ### GitHub Status
 <div align="center">
-
-   <img height="120" src="https://streak-stats.demolab.com/?user=Mostafa2115&theme=react&border=ffffff&hide_border=false" alt="GitHub Streak" />
   <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api?username=mostafa2115&show_icons=true&hide_border=false&theme=react"
-    alt="GitHub Stats" height="120" 
+    alt="GitHub Stats" height="165" 
   />
   <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=mostafa2115&layout=compact&hide_border=false&theme=react&langs_count=6"
-    alt="Top Languages" height="120"
+    alt="Top Languages" height="190" 
   /> 
 </div>
 
