@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full-Stack+.NET+Developer;Backend+%7C+ASP.NET+Core+%7C+SQL+Server;Building+Scalable+%26+Production-Ready+Systems;Clean+Code+%7C+Architecture+%7C+System+Design" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full-Stack+.NET+Developer;Backend+%7C+ASP.NET+Core+%7C+SQL+Server;Building+Scalable+%26+Production-Ready+Systems;Clean+Code+%7C+Architecture+%7C+System+Design" alt="Typing Animation"/>
 
 <br/>
 
@@ -40,16 +40,17 @@
 
 <!-- ========================= -->
 
+<a> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right"  width="22%"> </a>
 
- ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> About Me
-
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> About Me
 
 > Hi, I'm **Mostafa Mahmoud**, a Computer Science student and Full-Stack Developer focused on **.NET technologies**.
 > I specialize in building **scalable RESTful APIs and backend systems** using **ASP.NET Core**, with strong attention to clean architecture, maintainability, security, and database design.
 > I'm continuously improving my full-stack skills while going deeper into **backend engineering, system design, and software architecture**.
 > Currently open to **internships, freelance opportunities, and backend/.NET roles**.
 
----
+<br/>
+
 
 <!-- ========================= -->
 
@@ -92,8 +93,8 @@
 
 </div>
 
+<br/><br/>
 
----
 <!-- ========================= -->
 
 <!--       GITHUB STATS        -->
@@ -103,7 +104,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mostafa2115&theme=dark&hide_border=false&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  width="22%">
 
 </div>
 
