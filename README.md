@@ -49,7 +49,6 @@
 > I'm continuously improving my full-stack skills while going deeper into **backend engineering, system design, and software architecture**.
 > Currently open to **internships, freelance opportunities, and backend/.NET roles**.
 
-<br/>
 
 
 <!-- ========================= -->
