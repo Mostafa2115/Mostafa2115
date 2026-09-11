@@ -12,11 +12,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full-Stack+.NET+Developer;Backend+%7C+ASP.NET+Core+%7C+SQL+Server;Building+Scalable+%26+Production-Ready+Systems;Clean+Code+%7C+Architecture+%7C+System+Design" alt="Typing Animation"/>
 
-<br/>
-
-
-
-
 </div>
 
 
@@ -26,7 +21,7 @@
 
 <!-- ========================= -->
 
-<a> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right"  width="22%"> </a>
+<!-- <a> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right"  width="22%"> </a> -->
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> About Me
 
@@ -35,7 +30,6 @@
 > I'm continuously improving my full-stack skills while going deeper into **backend engineering, system design, and software architecture**.
 > Currently open to **internships, freelance opportunities, and backend/.NET roles**.
 
-<h3 align="center">🌐 Contact Me <h3/>
   
 <div align="center">
   
