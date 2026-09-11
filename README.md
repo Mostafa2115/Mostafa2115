@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full-Stack+.NET+Developer;Backend+%7C+ASP.NET+Core+%7C+SQL+Server;Building+Scalable+%26+Production-Ready+Systems;Clean+Code+%7C+Architecture+%7C+System+Design" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full-Stack+.NET+Developer;Backend+%7C+ASP.NET+Core+%7C+SQL+Server;Building+Scalable+%26+Production-Ready+Systems;Clean+Code+%7C+Architecture+%7C+System+Design" alt="Typing Animation"/>
 
 <br/>
 
@@ -36,7 +36,9 @@
 > Currently open to **internships, freelance opportunities, and backend/.NET roles**.
 
 <h3 align="center">🌐 Contact Me <h3/>
-
+  
+<div align="center">
+  
 <a href="https://mostafaamahmoud.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -53,7 +55,7 @@
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-
+<div/>
 
 <!-- ========================= -->
 
