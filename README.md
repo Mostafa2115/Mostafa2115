@@ -7,9 +7,6 @@
 <div align="center">
 
 <img src="profile_banner.svg" width="100%" alt="Mostafa Mahmoud Banner"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full-Stack+.NET+Developer;Backend+%7C+ASP.NET+Core+%7C+SQL+Server;Building+Scalable+%26+Production-Ready+Systems;Clean+Code+%7C+Architecture+%7C+System+Design" alt="Typing Animation"/>
 
 </div>
@@ -29,27 +26,20 @@
 > I specialize in building **scalable RESTful APIs and backend systems** using **ASP.NET Core**, with strong attention to clean architecture, maintainability, security, and database design.
 > I'm continuously improving my full-stack skills while going deeper into **backend engineering, system design, and software architecture**.
 > Currently open to **internships, freelance opportunities, and backend/.NET roles**.
-
-  
-<div align="center">
-  
-<a href="https://mostafaamahmoud.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mostafa-mahmoud-5i">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mostafa2115">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:mostafaamahmoud075@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<div/>
+>  <div align="left">
+> <a href="https://mostafaamahmoud.vercel.app/">
+> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+> </a>
+> <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i">
+> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+> </a>
+> <a href="https://github.com/Mostafa2115">
+> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+> </a>
+> <a href="mailto:mostafaamahmoud075@gmail.com">
+> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+> </a>
+> <div/>
 
 <!-- ========================= -->
 
@@ -57,7 +47,7 @@
 
 <!-- ========================= -->
 
-
+<br/>
 
 <h3 align="center"> 🛠️ Tech Stack </h3>
 
