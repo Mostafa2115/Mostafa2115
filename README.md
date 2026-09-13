@@ -28,16 +28,16 @@
 > Currently open to **internships, freelance opportunities, and backend/.NET roles**.
 >  <div align="left">
 > <a href="https://mostafaamahmoud.vercel.app/">
-> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/>
 > </a>
 > <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i">
-> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+> <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black"/>
 > </a>
 > <a href="https://github.com/Mostafa2115">
-> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+> <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
 > </a>
 > <a href="mailto:mostafaamahmoud075@gmail.com">
-> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/>
 > </a>
 > <div/>
 
@@ -72,7 +72,6 @@
 <img src="https://img.shields.io/badge/CQRS-111111?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/MediatR-111111?style=for-the-badge&logoColor=white"/>
 
-<br/>
 
 <img src="https://img.shields.io/badge/Dependency_Injection-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT_Authentication-111111?style=for-the-badge"/>
@@ -81,7 +80,7 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- ========================= -->
 
