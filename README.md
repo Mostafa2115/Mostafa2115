@@ -69,10 +69,6 @@
 
 <img src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/SOLID-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/CQRS-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediatR-111111?style=for-the-badge&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/Dependency_Injection-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT_Authentication-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RESTful_APIs-111111?style=for-the-badge"/>
