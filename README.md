@@ -67,12 +67,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOLID-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dependency_Injection-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RESTful_APIs-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-ffffff?style=for-the-badge&logoColor=Black"/>
+<img src="https://img.shields.io/badge/SOLID-ffffff?style=for-the-badge&logoColor=Black"/>
+<img src="https://img.shields.io/badge/Dependency_Injection-ffffff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-ffffff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESTful_APIs-ffffff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-ffffff?style=for-the-badge"/>
 
 </div>
 
