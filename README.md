@@ -26,20 +26,16 @@
 > I specialize in building **scalable RESTful APIs and backend systems** using **ASP.NET Core**, with strong attention to clean architecture, maintainability, security, and database design.
 > I'm continuously improving my full-stack skills while going deeper into **backend engineering, system design, and software architecture**.
 > Currently open to **internships, freelance opportunities, and backend/.NET roles**.
->  <div align="left">
-> <a href="https://mostafaamahmoud.vercel.app/">
-> <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/>
-> </a>
+> <div align="left">
 > <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i">
-> <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+> <img src="https://skillicons.dev/icons?i=linkedin"/>
 > </a>
+> <img width="3" />
 > <a href="https://github.com/Mostafa2115">
-> <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+> <img src="https://skillicons.dev/icons?i=github"/>
 > </a>
-> <a href="mailto:mostafaamahmoud075@gmail.com">
-> <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/>
-> </a>
-> <div/>
+> </div>
+
 
 <!-- ========================= -->
 
