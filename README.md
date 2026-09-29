@@ -25,14 +25,14 @@
 > Hi, I'm **Mostafa Mahmoud**, a Computer Science student and Full-Stack Developer focused on **.NET technologies**.
 > I specialize in building **scalable RESTful APIs and backend systems** using **ASP.NET Core**, with strong attention to clean architecture, maintainability, security, and database design.
 > I'm continuously improving my full-stack skills while going deeper into **backend engineering, system design, and software architecture**.
-> Currently open to **internships, freelance opportunities, and backend/.NET roles**.
+> Currently open to **internships, freelance opportunities, and backend/.NET roles**. If you want to reach me **:**
 > <div align="left">
 > <a href="https://www.linkedin.com/in/mostafa-mahmoud-5i">
-> <img src="https://skillicons.dev/icons?i=linkedin"/>
+> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 > </a>
 > <img width="3" />
 > <a href="https://github.com/Mostafa2115">
-> <img src="https://skillicons.dev/icons?i=github"/>
+> <img src="https://skillicons.dev/icons?i=github" height="40"/>
 > </a>
 > </div>
 
