@@ -18,7 +18,7 @@
 
 <!-- ========================= -->
 
-<a> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right"  width="22%"> </a>
+<a> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right"  width="25%"> </a>
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> About Me
 
@@ -82,9 +82,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mostafa2115&theme=dark&hide_border=false&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" width="45%"/>
+<img src="https://streak-stats.demolab.com?user=Mostafa2115&theme=dark&hide_border=false&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" width="400"/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=Mostafa2115&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="41%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Mostafa2115&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="365"/>
 
 
 </div>
