@@ -82,9 +82,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mostafa2115&theme=dark&hide_border=false&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Mostafa2115&theme=dark&hide_border=false&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" width="40%"/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=Mostafa2115&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.shion.dev/api?username=Mostafa2115&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="35%"/>
 
 
 </div>
